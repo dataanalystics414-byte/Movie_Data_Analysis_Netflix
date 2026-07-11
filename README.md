@@ -149,27 +149,7 @@ The year **2020** contains the highest number of movies in the dataset.
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 
----
 
-## 📁 Project Structure
-
-```text
-Netflix-Movie-Analysis/
-│
-├── Dataset/
-│   └── movies.csv
-│
-├── Notebook/
-│   └── Netflix_Movie_Analysis.ipynb
-│
-├── Images/
-│   ├── genre_distribution.png
-│   ├── popularity_distribution.png
-│   ├── vote_average_distribution.png
-│   └── release_year_distribution.png
-│
-└── README.md
-```
 
 ---
 
